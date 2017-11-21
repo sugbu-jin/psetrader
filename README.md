@@ -1,2 +1,2 @@
 # psetrader
-Tool for chartists trading the Philippine Stock Exchange
+Tool for chartists trading in the Philippine Stock Exchange
